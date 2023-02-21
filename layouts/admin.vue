@@ -64,7 +64,7 @@
           <v-img src="/maveric.png" />
         </v-list-item-avatar>
         <v-list-item-title class="pa-2 primary--text font-weight-bold">
-          Forex24hourstrade
+          Standardprofit
         </v-list-item-title>
 
         <v-btn icon color="primary" @click.stop="mini = !mini">

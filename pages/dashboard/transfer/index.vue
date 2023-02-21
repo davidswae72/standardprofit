@@ -740,7 +740,7 @@ export default {
         timer: 5000,
         type: "primary",
         message:
-          "This service is not available in your region. Send us an email via support@Forex24hourstrade.com for enquiries.",
+          "This service is not available in your region. Send us an email via support@Standardprofit.com for enquiries.",
       });
     },
 

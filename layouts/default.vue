@@ -72,10 +72,10 @@
             >
               <v-list-item-content>
                 <v-list-item-title class="text-uppercase headline white--text">
-                  Forex24hourstrade
+                  Standardprofit
                 </v-list-item-title>
                 <div class="text-caption font-weight-light opacity-h mb-2">
-                  Forex24hourstrade is where you trade Bitcoin and other
+                  Standardprofit is where you trade Bitcoin and other
                   cryptocurrencies without having prior knowledge of computers.
                   Just create a one-time account, fund and cashout weekly.
                 </div>
@@ -156,7 +156,7 @@
                   <v-btn
                     dark
                     text
-                    href="mailto:support@Forex24hourstrade.org"
+                    href="mailto:support@Standardprofit.org"
                     target="_blank"
                     icon
                     fab

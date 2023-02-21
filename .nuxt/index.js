@@ -13,11 +13,11 @@ import { createStore } from './store.js'
 
 /* Plugins */
 
-import nuxt_plugin_plugin_a981ec1a from 'nuxt_plugin_plugin_a981ec1a' // Source: .\\components\\plugin.js (mode: 'all')
-import nuxt_plugin_plugin_19b1a23e from 'nuxt_plugin_plugin_19b1a23e' // Source: .\\vuetify\\plugin.js (mode: 'all')
-import nuxt_plugin_workbox_dbe48b9c from 'nuxt_plugin_workbox_dbe48b9c' // Source: .\\workbox.js (mode: 'client')
-import nuxt_plugin_metaplugin_6ffc5cb2 from 'nuxt_plugin_metaplugin_6ffc5cb2' // Source: .\\pwa\\meta.plugin.js (mode: 'all')
-import nuxt_plugin_axios_b050dad4 from 'nuxt_plugin_axios_b050dad4' // Source: .\\axios.js (mode: 'all')
+import nuxt_plugin_plugin_7eac5a87 from 'nuxt_plugin_plugin_7eac5a87' // Source: .\\components\\plugin.js (mode: 'all')
+import nuxt_plugin_plugin_3189c6cd from 'nuxt_plugin_plugin_3189c6cd' // Source: .\\vuetify\\plugin.js (mode: 'all')
+import nuxt_plugin_workbox_36921874 from 'nuxt_plugin_workbox_36921874' // Source: .\\workbox.js (mode: 'client')
+import nuxt_plugin_metaplugin_04267b74 from 'nuxt_plugin_metaplugin_04267b74' // Source: .\\pwa\\meta.plugin.js (mode: 'all')
+import nuxt_plugin_axios_162bbdac from 'nuxt_plugin_axios_162bbdac' // Source: .\\axios.js (mode: 'all')
 import nuxt_plugin_aos_caeae0de from 'nuxt_plugin_aos_caeae0de' // Source: ..\\plugins\\aos (mode: 'client')
 import nuxt_plugin_crypto_26115fb5 from 'nuxt_plugin_crypto_26115fb5' // Source: ..\\plugins\\crypto (mode: 'client')
 import nuxt_plugin_vuecookies_153c5a58 from 'nuxt_plugin_vuecookies_153c5a58' // Source: ..\\plugins\\vue-cookies (mode: 'client')
@@ -29,7 +29,7 @@ import nuxt_plugin_vuedragscroll_a94e76c4 from 'nuxt_plugin_vuedragscroll_a94e76
 import nuxt_plugin_vuesocialsharing_dccf00ce from 'nuxt_plugin_vuesocialsharing_dccf00ce' // Source: ..\\plugins\\vue-social-sharing (mode: 'client')
 import nuxt_plugin_vueyoutube_e2e19eb4 from 'nuxt_plugin_vueyoutube_e2e19eb4' // Source: ..\\plugins\\vue-youtube (mode: 'client')
 import nuxt_plugin_vgoogletranslate_1b952927 from 'nuxt_plugin_vgoogletranslate_1b952927' // Source: ..\\plugins\\v-google-translate (mode: 'client')
-import nuxt_plugin_auth_09246bda from 'nuxt_plugin_auth_09246bda' // Source: .\\auth.js (mode: 'all')
+import nuxt_plugin_auth_76fbbac6 from 'nuxt_plugin_auth_76fbbac6' // Source: .\\auth.js (mode: 'all')
 
 // Component: <ClientOnly>
 Vue.component(ClientOnly.name, ClientOnly)
@@ -94,7 +94,7 @@ async function createApp(ssrContext, config = {}) {
   // here we inject the router and store to all child components,
   // making them available everywhere as `this.$router` and `this.$store`.
   const app = {
-    head: {"titleTemplate":"%s Forex24hourstrade","meta":[{"charset":"utf-8"},{"name":"viewport","content":"width=device-width, initial-scale=1.0 maximum-scale=1.0, user-scalable=no"},{"hid":"description","name":"description","content":"Forex24hourstrade is where you trade Bitcoin and other cryptocurrencies without having prior knowledge of computers. Just create a one-time account, fund and cashout weekly."}],"link":[{"rel":"icon","type":"image\u002Fx-icon","href":"\u002Ffavicon.ico"},{"rel":"stylesheet","type":"text\u002Fcss","href":"https:\u002F\u002Ffonts.googleapis.com\u002Fcss?family=Roboto:100,300,400,500,700,900&display=swap"},{"rel":"stylesheet","type":"text\u002Fcss","href":"https:\u002F\u002Fcdn.jsdelivr.net\u002Fnpm\u002F@mdi\u002Ffont@latest\u002Fcss\u002Fmaterialdesignicons.min.css"}],"style":[],"script":[]},
+    head: {"titleTemplate":"%s Standardprofit","meta":[{"charset":"utf-8"},{"name":"viewport","content":"width=device-width, initial-scale=1.0 maximum-scale=1.0, user-scalable=no"},{"hid":"description","name":"description","content":"Standardprofit is where you trade Bitcoin and other cryptocurrencies without having prior knowledge of computers. Just create a one-time account, fund and cashout weekly."}],"link":[{"rel":"icon","type":"image\u002Fx-icon","href":"\u002Ffavicon.ico"},{"rel":"stylesheet","type":"text\u002Fcss","href":"https:\u002F\u002Ffonts.googleapis.com\u002Fcss?family=Roboto:100,300,400,500,700,900&display=swap"},{"rel":"stylesheet","type":"text\u002Fcss","href":"https:\u002F\u002Fcdn.jsdelivr.net\u002Fnpm\u002F@mdi\u002Ffont@latest\u002Fcss\u002Fmaterialdesignicons.min.css"}],"style":[],"script":[]},
 
     store,
     router,
@@ -223,24 +223,24 @@ async function createApp(ssrContext, config = {}) {
   }
   // Plugin execution
 
-  if (typeof nuxt_plugin_plugin_a981ec1a === 'function') {
-    await nuxt_plugin_plugin_a981ec1a(app.context, inject)
+  if (typeof nuxt_plugin_plugin_7eac5a87 === 'function') {
+    await nuxt_plugin_plugin_7eac5a87(app.context, inject)
   }
 
-  if (typeof nuxt_plugin_plugin_19b1a23e === 'function') {
-    await nuxt_plugin_plugin_19b1a23e(app.context, inject)
+  if (typeof nuxt_plugin_plugin_3189c6cd === 'function') {
+    await nuxt_plugin_plugin_3189c6cd(app.context, inject)
   }
 
-  if (process.client && typeof nuxt_plugin_workbox_dbe48b9c === 'function') {
-    await nuxt_plugin_workbox_dbe48b9c(app.context, inject)
+  if (process.client && typeof nuxt_plugin_workbox_36921874 === 'function') {
+    await nuxt_plugin_workbox_36921874(app.context, inject)
   }
 
-  if (typeof nuxt_plugin_metaplugin_6ffc5cb2 === 'function') {
-    await nuxt_plugin_metaplugin_6ffc5cb2(app.context, inject)
+  if (typeof nuxt_plugin_metaplugin_04267b74 === 'function') {
+    await nuxt_plugin_metaplugin_04267b74(app.context, inject)
   }
 
-  if (typeof nuxt_plugin_axios_b050dad4 === 'function') {
-    await nuxt_plugin_axios_b050dad4(app.context, inject)
+  if (typeof nuxt_plugin_axios_162bbdac === 'function') {
+    await nuxt_plugin_axios_162bbdac(app.context, inject)
   }
 
   if (process.client && typeof nuxt_plugin_aos_caeae0de === 'function') {
@@ -287,8 +287,8 @@ async function createApp(ssrContext, config = {}) {
     await nuxt_plugin_vgoogletranslate_1b952927(app.context, inject)
   }
 
-  if (typeof nuxt_plugin_auth_09246bda === 'function') {
-    await nuxt_plugin_auth_09246bda(app.context, inject)
+  if (typeof nuxt_plugin_auth_76fbbac6 === 'function') {
+    await nuxt_plugin_auth_76fbbac6(app.context, inject)
   }
 
   // Lock enablePreview in context

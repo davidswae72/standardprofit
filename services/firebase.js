@@ -4,12 +4,12 @@ import 'firebase/firestore'
 import 'firebase/storage'
 
 const config = {
-  apiKey: "AIzaSyAHpKyXhNDYm8IlBBb9Xgz1eVjFJztlCsY",
-  authDomain: "cashtagforex.firebaseapp.com",
-  projectId: "cashtagforex",
-  storageBucket: "cashtagforex.appspot.com",
-  messagingSenderId: "521050562434",
-  appId: "1:521050562434:web:c9f44f55e905c85451f99b"
+  apiKey: "AIzaSyC2fNTNKbNtioqGu-nF6RVagk7YBGBCMDY",
+  authDomain: "standardprofit-bcc45.firebaseapp.com",
+  projectId: "standardprofit-bcc45",
+  storageBucket: "standardprofit-bcc45.appspot.com",
+  messagingSenderId: "439896916335",
+  appId: "1:439896916335:web:0edd0a02d4003370ffa89a"
 }
 
 if (!firebase.apps.length) {

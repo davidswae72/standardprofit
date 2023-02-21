@@ -19,7 +19,7 @@
       <v-col cols="12" md="10" class="mb-6">
         <div class="font-weight-light text-justify">
           <p>
-            Forex24hourstrade Copy Trading is both a product and a service. We cater
+            Standardprofit Copy Trading is both a product and a service. We cater
             to both the traders and investors. Being able to copy trades from
             several expert traders is a great service in and of itself.
           </p>
@@ -215,7 +215,7 @@ export default {
           hid: "description",
           name: "description",
           content:
-            "Forex24hourstrade Copy Trading is both a product and a service. We cater to both the traders and investors. Being able to copy trades from several expert traders is a great service in and of itself.",
+            "Standardprofit Copy Trading is both a product and a service. We cater to both the traders and investors. Being able to copy trades from several expert traders is a great service in and of itself.",
         },
       ],
     };

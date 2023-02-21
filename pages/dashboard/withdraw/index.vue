@@ -251,10 +251,10 @@
                           <v-btn
                             color="accent"
                             text
-                            href="mailto:support@forex24hourstrade.online"
+                            href="mailto:support@Standardprofit.online"
                             class="px-0 text-lowercase"
                           >
-                            support@forex24hourstrade.online
+                            support@Standardprofit.online
                           </v-btn>
                           to get an <strong>Withdrawal Code</strong>
                         </v-col>

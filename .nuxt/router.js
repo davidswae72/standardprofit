@@ -4,55 +4,55 @@ import { normalizeURL, decode } from 'ufo'
 import { interopDefault } from './utils'
 import scrollBehavior from './router.scrollBehavior.js'
 
-const _b33c15d6 = () => interopDefault(import('..\\pages\\about.vue' /* webpackChunkName: "pages/about" */))
-const _35e880cb = () => interopDefault(import('..\\pages\\admin\\index.vue' /* webpackChunkName: "pages/admin/index" */))
-const _cf944fb0 = () => interopDefault(import('..\\pages\\contact.vue' /* webpackChunkName: "pages/contact" */))
-const _52c2a8d2 = () => interopDefault(import('..\\pages\\copytrade.vue' /* webpackChunkName: "pages/copytrade" */))
-const _fdbbf734 = () => interopDefault(import('..\\pages\\dashboard\\index.vue' /* webpackChunkName: "pages/dashboard/index" */))
-const _a1ebe7c4 = () => interopDefault(import('..\\pages\\faq.vue' /* webpackChunkName: "pages/faq" */))
-const _5ee8442e = () => interopDefault(import('..\\pages\\help.vue' /* webpackChunkName: "pages/help" */))
-const _7332be41 = () => interopDefault(import('..\\pages\\legal.vue' /* webpackChunkName: "pages/legal" */))
-const _7867e071 = () => interopDefault(import('..\\pages\\login\\index.vue' /* webpackChunkName: "pages/login/index" */))
-const _32336f5a = () => interopDefault(import('..\\pages\\policy.vue' /* webpackChunkName: "pages/policy" */))
-const _a3fff452 = () => interopDefault(import('..\\pages\\register\\index.vue' /* webpackChunkName: "pages/register/index" */))
-const _324a6be4 = () => interopDefault(import('..\\pages\\resolve\\index.vue' /* webpackChunkName: "pages/resolve/index" */))
-const _70178e0f = () => interopDefault(import('..\\pages\\terms.vue' /* webpackChunkName: "pages/terms" */))
-const _370a7524 = () => interopDefault(import('..\\pages\\whyus.vue' /* webpackChunkName: "pages/whyus" */))
-const _049ee548 = () => interopDefault(import('..\\pages\\admin\\account\\index.vue' /* webpackChunkName: "pages/admin/account/index" */))
-const _712df954 = () => interopDefault(import('..\\pages\\admin\\deposits\\index.vue' /* webpackChunkName: "pages/admin/deposits/index" */))
-const _f6f891d0 = () => interopDefault(import('..\\pages\\admin\\investment\\index.vue' /* webpackChunkName: "pages/admin/investment/index" */))
-const _6a0d1e08 = () => interopDefault(import('..\\pages\\admin\\loans.vue' /* webpackChunkName: "pages/admin/loans" */))
-const _3701606e = () => interopDefault(import('..\\pages\\admin\\loans.vue\\index.vue' /* webpackChunkName: "pages/admin/loans.vue/index" */))
-const _23a6c481 = () => interopDefault(import('..\\pages\\admin\\notifications\\index.vue' /* webpackChunkName: "pages/admin/notifications/index" */))
-const _870d95c4 = () => interopDefault(import('..\\pages\\admin\\otp\\index.vue' /* webpackChunkName: "pages/admin/otp/index" */))
-const _49010008 = () => interopDefault(import('..\\pages\\admin\\settings\\index.vue' /* webpackChunkName: "pages/admin/settings/index" */))
-const _25820b01 = () => interopDefault(import('..\\pages\\admin\\transfers\\index.vue' /* webpackChunkName: "pages/admin/transfers/index" */))
-const _0cd6733e = () => interopDefault(import('..\\pages\\admin\\users\\index.vue' /* webpackChunkName: "pages/admin/users/index" */))
-const _07b90290 = () => interopDefault(import('..\\pages\\admin\\verification\\index.vue' /* webpackChunkName: "pages/admin/verification/index" */))
-const _365241de = () => interopDefault(import('..\\pages\\admin\\victims\\index.vue' /* webpackChunkName: "pages/admin/victims/index" */))
-const _4cfe2ac1 = () => interopDefault(import('..\\pages\\admin\\withdraw\\index.vue' /* webpackChunkName: "pages/admin/withdraw/index" */))
-const _7417a7a0 = () => interopDefault(import('..\\pages\\admin\\withdraws\\index.vue' /* webpackChunkName: "pages/admin/withdraws/index" */))
-const _801c2fbe = () => interopDefault(import('..\\pages\\dashboard\\account\\index.vue' /* webpackChunkName: "pages/dashboard/account/index" */))
-const _91ce49e0 = () => interopDefault(import('..\\pages\\dashboard\\deposit\\index.vue' /* webpackChunkName: "pages/dashboard/deposit/index" */))
-const _1acbd4b2 = () => interopDefault(import('..\\pages\\dashboard\\home\\index.vue' /* webpackChunkName: "pages/dashboard/home/index" */))
-const _712240f6 = () => interopDefault(import('..\\pages\\dashboard\\loan\\index.vue' /* webpackChunkName: "pages/dashboard/loan/index" */))
-const _fc84b9b6 = () => interopDefault(import('..\\pages\\dashboard\\profile\\index.vue' /* webpackChunkName: "pages/dashboard/profile/index" */))
-const _7b42793f = () => interopDefault(import('..\\pages\\dashboard\\support\\index.vue' /* webpackChunkName: "pages/dashboard/support/index" */))
-const _27d571f7 = () => interopDefault(import('..\\pages\\dashboard\\trades\\index.vue' /* webpackChunkName: "pages/dashboard/trades/index" */))
-const _0c787f71 = () => interopDefault(import('..\\pages\\dashboard\\transactions\\index.vue' /* webpackChunkName: "pages/dashboard/transactions/index" */))
-const _3e3955ca = () => interopDefault(import('..\\pages\\dashboard\\transfer\\index.vue' /* webpackChunkName: "pages/dashboard/transfer/index" */))
-const _5a2faec8 = () => interopDefault(import('..\\pages\\dashboard\\withdraw\\index.vue' /* webpackChunkName: "pages/dashboard/withdraw/index" */))
-const _14442416 = () => interopDefault(import('..\\pages\\password\\new\\index.vue' /* webpackChunkName: "pages/password/new/index" */))
-const _1b812826 = () => interopDefault(import('..\\pages\\password\\reset\\index.vue' /* webpackChunkName: "pages/password/reset/index" */))
-const _36da3f2d = () => interopDefault(import('..\\pages\\trade\\crypto.vue' /* webpackChunkName: "pages/trade/crypto" */))
-const _2d98fe00 = () => interopDefault(import('..\\pages\\trade\\forex.vue' /* webpackChunkName: "pages/trade/forex" */))
-const _18e73f3c = () => interopDefault(import('..\\pages\\trade\\options.vue' /* webpackChunkName: "pages/trade/options" */))
-const _5581204c = () => interopDefault(import('..\\pages\\trade\\stock.vue' /* webpackChunkName: "pages/trade/stock" */))
-const _7001dccc = () => interopDefault(import('..\\pages\\dashboard\\wallet\\fund.vue' /* webpackChunkName: "pages/dashboard/wallet/fund" */))
-const _64938b56 = () => interopDefault(import('..\\pages\\dashboard\\wallet\\upin.vue' /* webpackChunkName: "pages/dashboard/wallet/upin" */))
-const _3040a8df = () => interopDefault(import('..\\pages\\dashboard\\wallet\\withdraw.vue' /* webpackChunkName: "pages/dashboard/wallet/withdraw" */))
-const _1f399639 = () => interopDefault(import('..\\pages\\admin\\users\\_user.vue' /* webpackChunkName: "pages/admin/users/_user" */))
-const _73cc604c = () => interopDefault(import('..\\pages\\index.vue' /* webpackChunkName: "pages/index" */))
+const _083f4d81 = () => interopDefault(import('..\\pages\\about.vue' /* webpackChunkName: "pages/about" */))
+const _a851d242 = () => interopDefault(import('..\\pages\\admin\\index.vue' /* webpackChunkName: "pages/admin/index" */))
+const _0fc274d8 = () => interopDefault(import('..\\pages\\contact.vue' /* webpackChunkName: "pages/contact" */))
+const _3ffc23fa = () => interopDefault(import('..\\pages\\copytrade.vue' /* webpackChunkName: "pages/copytrade" */))
+const _da211f0c = () => interopDefault(import('..\\pages\\dashboard\\index.vue' /* webpackChunkName: "pages/dashboard/index" */))
+const _4afa8f8a = () => interopDefault(import('..\\pages\\faq.vue' /* webpackChunkName: "pages/faq" */))
+const _9aa87006 = () => interopDefault(import('..\\pages\\help.vue' /* webpackChunkName: "pages/help" */))
+const _55dfd2a6 = () => interopDefault(import('..\\pages\\legal.vue' /* webpackChunkName: "pages/legal" */))
+const _235312f6 = () => interopDefault(import('..\\pages\\login\\index.vue' /* webpackChunkName: "pages/login/index" */))
+const _0c01246e = () => interopDefault(import('..\\pages\\policy.vue' /* webpackChunkName: "pages/policy" */))
+const _e4ea717a = () => interopDefault(import('..\\pages\\register\\index.vue' /* webpackChunkName: "pages/register/index" */))
+const _c907a9bc = () => interopDefault(import('..\\pages\\resolve\\index.vue' /* webpackChunkName: "pages/resolve/index" */))
+const _5c16330a = () => interopDefault(import('..\\pages\\terms.vue' /* webpackChunkName: "pages/terms" */))
+const _46581dda = () => interopDefault(import('..\\pages\\whyus.vue' /* webpackChunkName: "pages/whyus" */))
+const _71878dc8 = () => interopDefault(import('..\\pages\\admin\\account\\index.vue' /* webpackChunkName: "pages/admin/account/index" */))
+const _631bdf2c = () => interopDefault(import('..\\pages\\admin\\deposits\\index.vue' /* webpackChunkName: "pages/admin/deposits/index" */))
+const _250461a8 = () => interopDefault(import('..\\pages\\admin\\investment\\index.vue' /* webpackChunkName: "pages/admin/investment/index" */))
+const _40e80710 = () => interopDefault(import('..\\pages\\admin\\loans.vue' /* webpackChunkName: "pages/admin/loans" */))
+const _1119f5da = () => interopDefault(import('..\\pages\\admin\\loans.vue\\index.vue' /* webpackChunkName: "pages/admin/loans.vue/index" */))
+const _6b5ec3ed = () => interopDefault(import('..\\pages\\admin\\notifications\\index.vue' /* webpackChunkName: "pages/admin/notifications/index" */))
+const _374d68ec = () => interopDefault(import('..\\pages\\admin\\otp\\index.vue' /* webpackChunkName: "pages/admin/otp/index" */))
+const _500a0d1c = () => interopDefault(import('..\\pages\\admin\\settings\\index.vue' /* webpackChunkName: "pages/admin/settings/index" */))
+const _00cabf26 = () => interopDefault(import('..\\pages\\admin\\transfers\\index.vue' /* webpackChunkName: "pages/admin/transfers/index" */))
+const _ac6e1c66 = () => interopDefault(import('..\\pages\\admin\\users\\index.vue' /* webpackChunkName: "pages/admin/users/index" */))
+const _1a8d65a4 = () => interopDefault(import('..\\pages\\admin\\verification\\index.vue' /* webpackChunkName: "pages/admin/verification/index" */))
+const _abad7b6c = () => interopDefault(import('..\\pages\\admin\\victims\\index.vue' /* webpackChunkName: "pages/admin/victims/index" */))
+const _540737d5 = () => interopDefault(import('..\\pages\\admin\\withdraw\\index.vue' /* webpackChunkName: "pages/admin/withdraw/index" */))
+const _4e303d0c = () => interopDefault(import('..\\pages\\admin\\withdraws\\index.vue' /* webpackChunkName: "pages/admin/withdraws/index" */))
+const _763ad28d = () => interopDefault(import('..\\pages\\dashboard\\account\\index.vue' /* webpackChunkName: "pages/dashboard/account/index" */))
+const _6d61c57c = () => interopDefault(import('..\\pages\\dashboard\\deposit\\index.vue' /* webpackChunkName: "pages/dashboard/deposit/index" */))
+const _0cb9ba8a = () => interopDefault(import('..\\pages\\dashboard\\home\\index.vue' /* webpackChunkName: "pages/dashboard/home/index" */))
+const _782b4e0a = () => interopDefault(import('..\\pages\\dashboard\\loan\\index.vue' /* webpackChunkName: "pages/dashboard/loan/index" */))
+const _38068d91 = () => interopDefault(import('..\\pages\\dashboard\\profile\\index.vue' /* webpackChunkName: "pages/dashboard/profile/index" */))
+const _318b63ab = () => interopDefault(import('..\\pages\\dashboard\\support\\index.vue' /* webpackChunkName: "pages/dashboard/support/index" */))
+const _de60ebea = () => interopDefault(import('..\\pages\\dashboard\\trades\\index.vue' /* webpackChunkName: "pages/dashboard/trades/index" */))
+const _097d3885 = () => interopDefault(import('..\\pages\\dashboard\\transactions\\index.vue' /* webpackChunkName: "pages/dashboard/transactions/index" */))
+const _18908fa2 = () => interopDefault(import('..\\pages\\dashboard\\transfer\\index.vue' /* webpackChunkName: "pages/dashboard/transfer/index" */))
+const _3486e8a0 = () => interopDefault(import('..\\pages\\dashboard\\withdraw\\index.vue' /* webpackChunkName: "pages/dashboard/withdraw/index" */))
+const _4c2f3009 = () => interopDefault(import('..\\pages\\password\\new\\index.vue' /* webpackChunkName: "pages/password/new/index" */))
+const _228a353a = () => interopDefault(import('..\\pages\\password\\reset\\index.vue' /* webpackChunkName: "pages/password/reset/index" */))
+const _7ebe6b99 = () => interopDefault(import('..\\pages\\trade\\crypto.vue' /* webpackChunkName: "pages/trade/crypto" */))
+const _5f221714 = () => interopDefault(import('..\\pages\\trade\\forex.vue' /* webpackChunkName: "pages/trade/forex" */))
+const _afa47d14 = () => interopDefault(import('..\\pages\\trade\\options.vue' /* webpackChunkName: "pages/trade/options" */))
+const _4b2e05ee = () => interopDefault(import('..\\pages\\trade\\stock.vue' /* webpackChunkName: "pages/trade/stock" */))
+const _bbd0b1f4 = () => interopDefault(import('..\\pages\\dashboard\\wallet\\fund.vue' /* webpackChunkName: "pages/dashboard/wallet/fund" */))
+const _b062607e = () => interopDefault(import('..\\pages\\dashboard\\wallet\\upin.vue' /* webpackChunkName: "pages/dashboard/wallet/upin" */))
+const _77f8a84b = () => interopDefault(import('..\\pages\\dashboard\\wallet\\withdraw.vue' /* webpackChunkName: "pages/dashboard/wallet/withdraw" */))
+const _61247cb6 = () => interopDefault(import('..\\pages\\admin\\users\\_user.vue' /* webpackChunkName: "pages/admin/users/_user" */))
+const _27f72846 = () => interopDefault(import('..\\pages\\index.vue' /* webpackChunkName: "pages/index" */))
 
 const emptyFn = () => {}
 
@@ -67,199 +67,199 @@ export const routerOptions = {
 
   routes: [{
     path: "/about",
-    component: _b33c15d6,
+    component: _083f4d81,
     name: "about"
   }, {
     path: "/admin",
-    component: _35e880cb,
+    component: _a851d242,
     name: "admin"
   }, {
     path: "/contact",
-    component: _cf944fb0,
+    component: _0fc274d8,
     name: "contact"
   }, {
     path: "/copytrade",
-    component: _52c2a8d2,
+    component: _3ffc23fa,
     name: "copytrade"
   }, {
     path: "/dashboard",
-    component: _fdbbf734,
+    component: _da211f0c,
     name: "dashboard"
   }, {
     path: "/faq",
-    component: _a1ebe7c4,
+    component: _4afa8f8a,
     name: "faq"
   }, {
     path: "/help",
-    component: _5ee8442e,
+    component: _9aa87006,
     name: "help"
   }, {
     path: "/legal",
-    component: _7332be41,
+    component: _55dfd2a6,
     name: "legal"
   }, {
     path: "/login",
-    component: _7867e071,
+    component: _235312f6,
     name: "login"
   }, {
     path: "/policy",
-    component: _32336f5a,
+    component: _0c01246e,
     name: "policy"
   }, {
     path: "/register",
-    component: _a3fff452,
+    component: _e4ea717a,
     name: "register"
   }, {
     path: "/resolve",
-    component: _324a6be4,
+    component: _c907a9bc,
     name: "resolve"
   }, {
     path: "/terms",
-    component: _70178e0f,
+    component: _5c16330a,
     name: "terms"
   }, {
     path: "/whyus",
-    component: _370a7524,
+    component: _46581dda,
     name: "whyus"
   }, {
     path: "/admin/account",
-    component: _049ee548,
+    component: _71878dc8,
     name: "admin-account"
   }, {
     path: "/admin/deposits",
-    component: _712df954,
+    component: _631bdf2c,
     name: "admin-deposits"
   }, {
     path: "/admin/investment",
-    component: _f6f891d0,
+    component: _250461a8,
     name: "admin-investment"
   }, {
     path: "/admin/loans",
-    component: _6a0d1e08,
+    component: _40e80710,
     name: "admin-loans"
   }, {
     path: "/admin/loans.vue",
-    component: _3701606e,
+    component: _1119f5da,
     name: "admin-loans.vue"
   }, {
     path: "/admin/notifications",
-    component: _23a6c481,
+    component: _6b5ec3ed,
     name: "admin-notifications"
   }, {
     path: "/admin/otp",
-    component: _870d95c4,
+    component: _374d68ec,
     name: "admin-otp"
   }, {
     path: "/admin/settings",
-    component: _49010008,
+    component: _500a0d1c,
     name: "admin-settings"
   }, {
     path: "/admin/transfers",
-    component: _25820b01,
+    component: _00cabf26,
     name: "admin-transfers"
   }, {
     path: "/admin/users",
-    component: _0cd6733e,
+    component: _ac6e1c66,
     name: "admin-users"
   }, {
     path: "/admin/verification",
-    component: _07b90290,
+    component: _1a8d65a4,
     name: "admin-verification"
   }, {
     path: "/admin/victims",
-    component: _365241de,
+    component: _abad7b6c,
     name: "admin-victims"
   }, {
     path: "/admin/withdraw",
-    component: _4cfe2ac1,
+    component: _540737d5,
     name: "admin-withdraw"
   }, {
     path: "/admin/withdraws",
-    component: _7417a7a0,
+    component: _4e303d0c,
     name: "admin-withdraws"
   }, {
     path: "/dashboard/account",
-    component: _801c2fbe,
+    component: _763ad28d,
     name: "dashboard-account"
   }, {
     path: "/dashboard/deposit",
-    component: _91ce49e0,
+    component: _6d61c57c,
     name: "dashboard-deposit"
   }, {
     path: "/dashboard/home",
-    component: _1acbd4b2,
+    component: _0cb9ba8a,
     name: "dashboard-home"
   }, {
     path: "/dashboard/loan",
-    component: _712240f6,
+    component: _782b4e0a,
     name: "dashboard-loan"
   }, {
     path: "/dashboard/profile",
-    component: _fc84b9b6,
+    component: _38068d91,
     name: "dashboard-profile"
   }, {
     path: "/dashboard/support",
-    component: _7b42793f,
+    component: _318b63ab,
     name: "dashboard-support"
   }, {
     path: "/dashboard/trades",
-    component: _27d571f7,
+    component: _de60ebea,
     name: "dashboard-trades"
   }, {
     path: "/dashboard/transactions",
-    component: _0c787f71,
+    component: _097d3885,
     name: "dashboard-transactions"
   }, {
     path: "/dashboard/transfer",
-    component: _3e3955ca,
+    component: _18908fa2,
     name: "dashboard-transfer"
   }, {
     path: "/dashboard/withdraw",
-    component: _5a2faec8,
+    component: _3486e8a0,
     name: "dashboard-withdraw"
   }, {
     path: "/password/new",
-    component: _14442416,
+    component: _4c2f3009,
     name: "password-new"
   }, {
     path: "/password/reset",
-    component: _1b812826,
+    component: _228a353a,
     name: "password-reset"
   }, {
     path: "/trade/crypto",
-    component: _36da3f2d,
+    component: _7ebe6b99,
     name: "trade-crypto"
   }, {
     path: "/trade/forex",
-    component: _2d98fe00,
+    component: _5f221714,
     name: "trade-forex"
   }, {
     path: "/trade/options",
-    component: _18e73f3c,
+    component: _afa47d14,
     name: "trade-options"
   }, {
     path: "/trade/stock",
-    component: _5581204c,
+    component: _4b2e05ee,
     name: "trade-stock"
   }, {
     path: "/dashboard/wallet/fund",
-    component: _7001dccc,
+    component: _bbd0b1f4,
     name: "dashboard-wallet-fund"
   }, {
     path: "/dashboard/wallet/upin",
-    component: _64938b56,
+    component: _b062607e,
     name: "dashboard-wallet-upin"
   }, {
     path: "/dashboard/wallet/withdraw",
-    component: _3040a8df,
+    component: _77f8a84b,
     name: "dashboard-wallet-withdraw"
   }, {
     path: "/admin/users/:user",
-    component: _1f399639,
+    component: _61247cb6,
     name: "admin-users-user"
   }, {
     path: "/",
-    component: _73cc604c,
+    component: _27f72846,
     name: "index"
   }],
 

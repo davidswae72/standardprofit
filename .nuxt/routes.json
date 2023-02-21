@@ -2,295 +2,344 @@
   {
     "name": "about",
     "path": "/about",
-    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\cashtagforex\\\\pages\\\\about.vue",
-    "chunkName": "pages/about"
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\standardprofit\\\\pages\\\\about.vue",
+    "chunkName": "pages/about",
+    "_name": "_083f4d81"
   },
   {
     "name": "admin",
     "path": "/admin",
-    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\cashtagforex\\\\pages\\\\admin\\\\index.vue",
-    "chunkName": "pages/admin/index"
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\standardprofit\\\\pages\\\\admin\\\\index.vue",
+    "chunkName": "pages/admin/index",
+    "_name": "_a851d242"
   },
   {
     "name": "contact",
     "path": "/contact",
-    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\cashtagforex\\\\pages\\\\contact.vue",
-    "chunkName": "pages/contact"
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\standardprofit\\\\pages\\\\contact.vue",
+    "chunkName": "pages/contact",
+    "_name": "_0fc274d8"
   },
   {
     "name": "copytrade",
     "path": "/copytrade",
-    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\cashtagforex\\\\pages\\\\copytrade.vue",
-    "chunkName": "pages/copytrade"
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\standardprofit\\\\pages\\\\copytrade.vue",
+    "chunkName": "pages/copytrade",
+    "_name": "_3ffc23fa"
   },
   {
     "name": "dashboard",
     "path": "/dashboard",
-    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\cashtagforex\\\\pages\\\\dashboard\\\\index.vue",
-    "chunkName": "pages/dashboard/index"
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\standardprofit\\\\pages\\\\dashboard\\\\index.vue",
+    "chunkName": "pages/dashboard/index",
+    "_name": "_da211f0c"
   },
   {
     "name": "faq",
     "path": "/faq",
-    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\cashtagforex\\\\pages\\\\faq.vue",
-    "chunkName": "pages/faq"
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\standardprofit\\\\pages\\\\faq.vue",
+    "chunkName": "pages/faq",
+    "_name": "_4afa8f8a"
   },
   {
     "name": "help",
     "path": "/help",
-    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\cashtagforex\\\\pages\\\\help.vue",
-    "chunkName": "pages/help"
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\standardprofit\\\\pages\\\\help.vue",
+    "chunkName": "pages/help",
+    "_name": "_9aa87006"
   },
   {
     "name": "legal",
     "path": "/legal",
-    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\cashtagforex\\\\pages\\\\legal.vue",
-    "chunkName": "pages/legal"
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\standardprofit\\\\pages\\\\legal.vue",
+    "chunkName": "pages/legal",
+    "_name": "_55dfd2a6"
   },
   {
     "name": "login",
     "path": "/login",
-    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\cashtagforex\\\\pages\\\\login\\\\index.vue",
-    "chunkName": "pages/login/index"
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\standardprofit\\\\pages\\\\login\\\\index.vue",
+    "chunkName": "pages/login/index",
+    "_name": "_235312f6"
   },
   {
     "name": "policy",
     "path": "/policy",
-    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\cashtagforex\\\\pages\\\\policy.vue",
-    "chunkName": "pages/policy"
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\standardprofit\\\\pages\\\\policy.vue",
+    "chunkName": "pages/policy",
+    "_name": "_0c01246e"
   },
   {
     "name": "register",
     "path": "/register",
-    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\cashtagforex\\\\pages\\\\register\\\\index.vue",
-    "chunkName": "pages/register/index"
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\standardprofit\\\\pages\\\\register\\\\index.vue",
+    "chunkName": "pages/register/index",
+    "_name": "_e4ea717a"
   },
   {
     "name": "resolve",
     "path": "/resolve",
-    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\cashtagforex\\\\pages\\\\resolve\\\\index.vue",
-    "chunkName": "pages/resolve/index"
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\standardprofit\\\\pages\\\\resolve\\\\index.vue",
+    "chunkName": "pages/resolve/index",
+    "_name": "_c907a9bc"
   },
   {
     "name": "terms",
     "path": "/terms",
-    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\cashtagforex\\\\pages\\\\terms.vue",
-    "chunkName": "pages/terms"
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\standardprofit\\\\pages\\\\terms.vue",
+    "chunkName": "pages/terms",
+    "_name": "_5c16330a"
   },
   {
     "name": "whyus",
     "path": "/whyus",
-    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\cashtagforex\\\\pages\\\\whyus.vue",
-    "chunkName": "pages/whyus"
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\standardprofit\\\\pages\\\\whyus.vue",
+    "chunkName": "pages/whyus",
+    "_name": "_46581dda"
   },
   {
     "name": "admin-account",
     "path": "/admin/account",
-    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\cashtagforex\\\\pages\\\\admin\\\\account\\\\index.vue",
-    "chunkName": "pages/admin/account/index"
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\standardprofit\\\\pages\\\\admin\\\\account\\\\index.vue",
+    "chunkName": "pages/admin/account/index",
+    "_name": "_71878dc8"
   },
   {
     "name": "admin-deposits",
     "path": "/admin/deposits",
-    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\cashtagforex\\\\pages\\\\admin\\\\deposits\\\\index.vue",
-    "chunkName": "pages/admin/deposits/index"
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\standardprofit\\\\pages\\\\admin\\\\deposits\\\\index.vue",
+    "chunkName": "pages/admin/deposits/index",
+    "_name": "_631bdf2c"
   },
   {
     "name": "admin-investment",
     "path": "/admin/investment",
-    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\cashtagforex\\\\pages\\\\admin\\\\investment\\\\index.vue",
-    "chunkName": "pages/admin/investment/index"
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\standardprofit\\\\pages\\\\admin\\\\investment\\\\index.vue",
+    "chunkName": "pages/admin/investment/index",
+    "_name": "_250461a8"
   },
   {
     "name": "admin-loans",
     "path": "/admin/loans",
-    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\cashtagforex\\\\pages\\\\admin\\\\loans.vue",
-    "chunkName": "pages/admin/loans"
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\standardprofit\\\\pages\\\\admin\\\\loans.vue",
+    "chunkName": "pages/admin/loans",
+    "_name": "_40e80710"
   },
   {
     "name": "admin-loans.vue",
     "path": "/admin/loans.vue",
-    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\cashtagforex\\\\pages\\\\admin\\\\loans.vue\\\\index.vue",
-    "chunkName": "pages/admin/loans.vue/index"
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\standardprofit\\\\pages\\\\admin\\\\loans.vue\\\\index.vue",
+    "chunkName": "pages/admin/loans.vue/index",
+    "_name": "_1119f5da"
   },
   {
     "name": "admin-notifications",
     "path": "/admin/notifications",
-    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\cashtagforex\\\\pages\\\\admin\\\\notifications\\\\index.vue",
-    "chunkName": "pages/admin/notifications/index"
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\standardprofit\\\\pages\\\\admin\\\\notifications\\\\index.vue",
+    "chunkName": "pages/admin/notifications/index",
+    "_name": "_6b5ec3ed"
   },
   {
     "name": "admin-otp",
     "path": "/admin/otp",
-    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\cashtagforex\\\\pages\\\\admin\\\\otp\\\\index.vue",
-    "chunkName": "pages/admin/otp/index"
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\standardprofit\\\\pages\\\\admin\\\\otp\\\\index.vue",
+    "chunkName": "pages/admin/otp/index",
+    "_name": "_374d68ec"
   },
   {
     "name": "admin-settings",
     "path": "/admin/settings",
-    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\cashtagforex\\\\pages\\\\admin\\\\settings\\\\index.vue",
-    "chunkName": "pages/admin/settings/index"
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\standardprofit\\\\pages\\\\admin\\\\settings\\\\index.vue",
+    "chunkName": "pages/admin/settings/index",
+    "_name": "_500a0d1c"
   },
   {
     "name": "admin-transfers",
     "path": "/admin/transfers",
-    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\cashtagforex\\\\pages\\\\admin\\\\transfers\\\\index.vue",
-    "chunkName": "pages/admin/transfers/index"
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\standardprofit\\\\pages\\\\admin\\\\transfers\\\\index.vue",
+    "chunkName": "pages/admin/transfers/index",
+    "_name": "_00cabf26"
   },
   {
     "name": "admin-users",
     "path": "/admin/users",
-    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\cashtagforex\\\\pages\\\\admin\\\\users\\\\index.vue",
-    "chunkName": "pages/admin/users/index"
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\standardprofit\\\\pages\\\\admin\\\\users\\\\index.vue",
+    "chunkName": "pages/admin/users/index",
+    "_name": "_ac6e1c66"
   },
   {
     "name": "admin-verification",
     "path": "/admin/verification",
-    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\cashtagforex\\\\pages\\\\admin\\\\verification\\\\index.vue",
-    "chunkName": "pages/admin/verification/index"
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\standardprofit\\\\pages\\\\admin\\\\verification\\\\index.vue",
+    "chunkName": "pages/admin/verification/index",
+    "_name": "_1a8d65a4"
   },
   {
     "name": "admin-victims",
     "path": "/admin/victims",
-    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\cashtagforex\\\\pages\\\\admin\\\\victims\\\\index.vue",
-    "chunkName": "pages/admin/victims/index"
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\standardprofit\\\\pages\\\\admin\\\\victims\\\\index.vue",
+    "chunkName": "pages/admin/victims/index",
+    "_name": "_abad7b6c"
   },
   {
     "name": "admin-withdraw",
     "path": "/admin/withdraw",
-    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\cashtagforex\\\\pages\\\\admin\\\\withdraw\\\\index.vue",
-    "chunkName": "pages/admin/withdraw/index"
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\standardprofit\\\\pages\\\\admin\\\\withdraw\\\\index.vue",
+    "chunkName": "pages/admin/withdraw/index",
+    "_name": "_540737d5"
   },
   {
     "name": "admin-withdraws",
     "path": "/admin/withdraws",
-    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\cashtagforex\\\\pages\\\\admin\\\\withdraws\\\\index.vue",
-    "chunkName": "pages/admin/withdraws/index"
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\standardprofit\\\\pages\\\\admin\\\\withdraws\\\\index.vue",
+    "chunkName": "pages/admin/withdraws/index",
+    "_name": "_4e303d0c"
   },
   {
     "name": "dashboard-account",
     "path": "/dashboard/account",
-    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\cashtagforex\\\\pages\\\\dashboard\\\\account\\\\index.vue",
-    "chunkName": "pages/dashboard/account/index"
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\standardprofit\\\\pages\\\\dashboard\\\\account\\\\index.vue",
+    "chunkName": "pages/dashboard/account/index",
+    "_name": "_763ad28d"
   },
   {
     "name": "dashboard-deposit",
     "path": "/dashboard/deposit",
-    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\cashtagforex\\\\pages\\\\dashboard\\\\deposit\\\\index.vue",
-    "chunkName": "pages/dashboard/deposit/index"
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\standardprofit\\\\pages\\\\dashboard\\\\deposit\\\\index.vue",
+    "chunkName": "pages/dashboard/deposit/index",
+    "_name": "_6d61c57c"
   },
   {
     "name": "dashboard-home",
     "path": "/dashboard/home",
-    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\cashtagforex\\\\pages\\\\dashboard\\\\home\\\\index.vue",
-    "chunkName": "pages/dashboard/home/index"
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\standardprofit\\\\pages\\\\dashboard\\\\home\\\\index.vue",
+    "chunkName": "pages/dashboard/home/index",
+    "_name": "_0cb9ba8a"
   },
   {
     "name": "dashboard-loan",
     "path": "/dashboard/loan",
-    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\cashtagforex\\\\pages\\\\dashboard\\\\loan\\\\index.vue",
-    "chunkName": "pages/dashboard/loan/index"
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\standardprofit\\\\pages\\\\dashboard\\\\loan\\\\index.vue",
+    "chunkName": "pages/dashboard/loan/index",
+    "_name": "_782b4e0a"
   },
   {
     "name": "dashboard-profile",
     "path": "/dashboard/profile",
-    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\cashtagforex\\\\pages\\\\dashboard\\\\profile\\\\index.vue",
-    "chunkName": "pages/dashboard/profile/index"
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\standardprofit\\\\pages\\\\dashboard\\\\profile\\\\index.vue",
+    "chunkName": "pages/dashboard/profile/index",
+    "_name": "_38068d91"
   },
   {
     "name": "dashboard-support",
     "path": "/dashboard/support",
-    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\cashtagforex\\\\pages\\\\dashboard\\\\support\\\\index.vue",
-    "chunkName": "pages/dashboard/support/index"
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\standardprofit\\\\pages\\\\dashboard\\\\support\\\\index.vue",
+    "chunkName": "pages/dashboard/support/index",
+    "_name": "_318b63ab"
   },
   {
     "name": "dashboard-trades",
     "path": "/dashboard/trades",
-    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\cashtagforex\\\\pages\\\\dashboard\\\\trades\\\\index.vue",
-    "chunkName": "pages/dashboard/trades/index"
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\standardprofit\\\\pages\\\\dashboard\\\\trades\\\\index.vue",
+    "chunkName": "pages/dashboard/trades/index",
+    "_name": "_de60ebea"
   },
   {
     "name": "dashboard-transactions",
     "path": "/dashboard/transactions",
-    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\cashtagforex\\\\pages\\\\dashboard\\\\transactions\\\\index.vue",
-    "chunkName": "pages/dashboard/transactions/index"
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\standardprofit\\\\pages\\\\dashboard\\\\transactions\\\\index.vue",
+    "chunkName": "pages/dashboard/transactions/index",
+    "_name": "_097d3885"
   },
   {
     "name": "dashboard-transfer",
     "path": "/dashboard/transfer",
-    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\cashtagforex\\\\pages\\\\dashboard\\\\transfer\\\\index.vue",
-    "chunkName": "pages/dashboard/transfer/index"
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\standardprofit\\\\pages\\\\dashboard\\\\transfer\\\\index.vue",
+    "chunkName": "pages/dashboard/transfer/index",
+    "_name": "_18908fa2"
   },
   {
     "name": "dashboard-withdraw",
     "path": "/dashboard/withdraw",
-    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\cashtagforex\\\\pages\\\\dashboard\\\\withdraw\\\\index.vue",
-    "chunkName": "pages/dashboard/withdraw/index"
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\standardprofit\\\\pages\\\\dashboard\\\\withdraw\\\\index.vue",
+    "chunkName": "pages/dashboard/withdraw/index",
+    "_name": "_3486e8a0"
   },
   {
     "name": "password-new",
     "path": "/password/new",
-    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\cashtagforex\\\\pages\\\\password\\\\new\\\\index.vue",
-    "chunkName": "pages/password/new/index"
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\standardprofit\\\\pages\\\\password\\\\new\\\\index.vue",
+    "chunkName": "pages/password/new/index",
+    "_name": "_4c2f3009"
   },
   {
     "name": "password-reset",
     "path": "/password/reset",
-    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\cashtagforex\\\\pages\\\\password\\\\reset\\\\index.vue",
-    "chunkName": "pages/password/reset/index"
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\standardprofit\\\\pages\\\\password\\\\reset\\\\index.vue",
+    "chunkName": "pages/password/reset/index",
+    "_name": "_228a353a"
   },
   {
     "name": "trade-crypto",
     "path": "/trade/crypto",
-    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\cashtagforex\\\\pages\\\\trade\\\\crypto.vue",
-    "chunkName": "pages/trade/crypto"
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\standardprofit\\\\pages\\\\trade\\\\crypto.vue",
+    "chunkName": "pages/trade/crypto",
+    "_name": "_7ebe6b99"
   },
   {
     "name": "trade-forex",
     "path": "/trade/forex",
-    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\cashtagforex\\\\pages\\\\trade\\\\forex.vue",
-    "chunkName": "pages/trade/forex"
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\standardprofit\\\\pages\\\\trade\\\\forex.vue",
+    "chunkName": "pages/trade/forex",
+    "_name": "_5f221714"
   },
   {
     "name": "trade-options",
     "path": "/trade/options",
-    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\cashtagforex\\\\pages\\\\trade\\\\options.vue",
-    "chunkName": "pages/trade/options"
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\standardprofit\\\\pages\\\\trade\\\\options.vue",
+    "chunkName": "pages/trade/options",
+    "_name": "_afa47d14"
   },
   {
     "name": "trade-stock",
     "path": "/trade/stock",
-    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\cashtagforex\\\\pages\\\\trade\\\\stock.vue",
-    "chunkName": "pages/trade/stock"
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\standardprofit\\\\pages\\\\trade\\\\stock.vue",
+    "chunkName": "pages/trade/stock",
+    "_name": "_4b2e05ee"
   },
   {
     "name": "dashboard-wallet-fund",
     "path": "/dashboard/wallet/fund",
-    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\cashtagforex\\\\pages\\\\dashboard\\\\wallet\\\\fund.vue",
-    "chunkName": "pages/dashboard/wallet/fund"
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\standardprofit\\\\pages\\\\dashboard\\\\wallet\\\\fund.vue",
+    "chunkName": "pages/dashboard/wallet/fund",
+    "_name": "_bbd0b1f4"
   },
   {
     "name": "dashboard-wallet-upin",
     "path": "/dashboard/wallet/upin",
-    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\cashtagforex\\\\pages\\\\dashboard\\\\wallet\\\\upin.vue",
-    "chunkName": "pages/dashboard/wallet/upin"
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\standardprofit\\\\pages\\\\dashboard\\\\wallet\\\\upin.vue",
+    "chunkName": "pages/dashboard/wallet/upin",
+    "_name": "_b062607e"
   },
   {
     "name": "dashboard-wallet-withdraw",
     "path": "/dashboard/wallet/withdraw",
-    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\cashtagforex\\\\pages\\\\dashboard\\\\wallet\\\\withdraw.vue",
-    "chunkName": "pages/dashboard/wallet/withdraw"
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\standardprofit\\\\pages\\\\dashboard\\\\wallet\\\\withdraw.vue",
+    "chunkName": "pages/dashboard/wallet/withdraw",
+    "_name": "_77f8a84b"
   },
   {
     "name": "admin-users-user",
     "path": "/admin/users/:user",
-    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\cashtagforex\\\\pages\\\\admin\\\\users\\\\_user.vue",
-    "chunkName": "pages/admin/users/_user"
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\standardprofit\\\\pages\\\\admin\\\\users\\\\_user.vue",
+    "chunkName": "pages/admin/users/_user",
+    "_name": "_61247cb6"
   },
   {
     "name": "index",
     "path": "/",
-    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\cashtagforex\\\\pages\\\\index.vue",
-    "chunkName": "pages/index"
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\standardprofit\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_27f72846"
   }
 ]

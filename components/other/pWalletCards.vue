@@ -7,7 +7,7 @@
     min-height="150"
     min-width="260"
     width="300"
-    class="cursor mx-2 px-4 rounded-lg d-flex align-center"
+    class="curso mx-2 px-4 rounded-lg d-flex align-center"
   >
     <v-icon size="40" left color="white">
       {{ icon }}
@@ -102,7 +102,7 @@ export default {
 
 <style>
 
-cursor:{
+curso{
   cursor: pointer;
 }
 

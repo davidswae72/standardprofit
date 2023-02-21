@@ -451,7 +451,7 @@ export const actions = {
                     is: true,
                     type: "error",
                     message:
-                      "Account blocked, Please contact support@Forex24hourstrade.com",
+                      "Account blocked, Please contact support@Standardprofit.com",
                   },
                   { root: true }
                 );

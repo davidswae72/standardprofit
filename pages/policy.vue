@@ -22,7 +22,7 @@
         </div>
         <div class="font-weight-light text-justify">
           <p>
-            Forex24hourstrade Limited (in incorporation) (“us“, “we” or “Company“)
+            Standardprofit Limited (in incorporation) (“us“, “we” or “Company“)
             respect the privacy of our users (each, “you” or “User“) and are
             committed to protect the privacy of Users who access, download,
             install or register to our mobile application (the “Application“),
@@ -121,12 +121,12 @@ You may remove the cookies by following the instructions of your device preferen
 
       {
         name: "For how long we retain the information",
-        des: "We respect your privacy rights and therefore you may contact us at any time and request: (i) to access, delete, change or update any Personal Information relating to you (for example, if you believe that your Personal Information is incorrect, you may ask to have it corrected or deleted); or (ii) that we will cease any further use of your Personal Information (for example, you may ask that we will stop using or sharing your Personal Information with third-parties) or that we shall remove your Personal Information (subject to any other legal obligation that may require us to keep the information). Please note that unless you instruct us otherwise we retain the information we collect for as long as needed to provide the Services and to comply with our legal obligations, resolve disputes and enforce our agreements. We may rectify, replenish or remove incomplete or inaccurate information, at any time and at our own discretion. If you wish to raise a complaint on how we have handled your Personal Information, please contact us directly at info@Forex24hourstrade.co. If you are not satisfied with our response or believe we are collecting or processing your Personal Information not in accordance with the laws, you can complain to the applicable data protection authority.",
+        des: "We respect your privacy rights and therefore you may contact us at any time and request: (i) to access, delete, change or update any Personal Information relating to you (for example, if you believe that your Personal Information is incorrect, you may ask to have it corrected or deleted); or (ii) that we will cease any further use of your Personal Information (for example, you may ask that we will stop using or sharing your Personal Information with third-parties) or that we shall remove your Personal Information (subject to any other legal obligation that may require us to keep the information). Please note that unless you instruct us otherwise we retain the information we collect for as long as needed to provide the Services and to comply with our legal obligations, resolve disputes and enforce our agreements. We may rectify, replenish or remove incomplete or inaccurate information, at any time and at our own discretion. If you wish to raise a complaint on how we have handled your Personal Information, please contact us directly at info@Standardprofit.co. If you are not satisfied with our response or believe we are collecting or processing your Personal Information not in accordance with the laws, you can complain to the applicable data protection authority.",
       },
 
       {
         name: "How we protect your information",
-        des: "We take great care in implementing and maintaining the security of the Services and your information. We employ industry standard procedures and policies to ensure the safety of your information and prevent unauthorized use of any such information. Although we take reasonable steps to safeguard information, we cannot be responsible for the acts of those who gain unauthorized access or abuse the Services, and we make no warranty, express, implied or otherwise, that we will prevent such access. If you feel that your privacy was treated not in accordance with our policy, or if any person attempted to abuse the Services or acted in an inappropriate manner, please contact us directly atinfo@Forex24hourstrade.co.",
+        des: "We take great care in implementing and maintaining the security of the Services and your information. We employ industry standard procedures and policies to ensure the safety of your information and prevent unauthorized use of any such information. Although we take reasonable steps to safeguard information, we cannot be responsible for the acts of those who gain unauthorized access or abuse the Services, and we make no warranty, express, implied or otherwise, that we will prevent such access. If you feel that your privacy was treated not in accordance with our policy, or if any person attempted to abuse the Services or acted in an inappropriate manner, please contact us directly atinfo@Standardprofit.co.",
       },
 
       {
@@ -151,7 +151,7 @@ You may remove the cookies by following the instructions of your device preferen
 
       {
         name: "How to contact us",
-        des: "If you have any general questions regarding the Services or the information that we collect about you and how we use it, please contact us at info@Forex24hourstrade.co.",
+        des: "If you have any general questions regarding the Services or the information that we collect about you and how we use it, please contact us at info@Standardprofit.co.",
       },
     ],
   }),
@@ -164,7 +164,7 @@ You may remove the cookies by following the instructions of your device preferen
           hid: "description",
           name: "description",
           content:
-            "Trade Binary Options on the Forex24hourstrade platform and enjoy reliable pricing and exceptional execution",
+            "Trade Binary Options on the Standardprofit platform and enjoy reliable pricing and exceptional execution",
         },
       ],
     };

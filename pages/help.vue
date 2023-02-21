@@ -109,7 +109,7 @@ export default {
         {
           hid: "description",
           name: "description",
-          content: "Questions Everyone is asking about Forex24hourstrade",
+          content: "Questions Everyone is asking about Standardprofit",
         },
       ],
     };

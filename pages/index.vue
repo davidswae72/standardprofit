@@ -256,7 +256,7 @@
           </v-card-title>
           <v-card-text class="text-subtitle-2 font-weight-light text-left">
             <p class="mb-6">
-              Forex24hourstrade strives to be worthy of our client's trust by
+              Standardprofit strives to be worthy of our client's trust by
               providing them with services which are economically beneficial to
               them and to create awareness regarding reliable and highly
               profitable investment platform among our clients around the globe.
@@ -497,7 +497,7 @@ export default {
         name: "Rita Robert",
         occupation: "Financial analyst, Blossom.",
         description:
-          "Was actually contemplating on which platform to trade my bitcoin until my husband told me about Forex24hourstradeprofitstrader. Simplicity of trading and on-time payouts cannot be over-emphasized.",
+          "Was actually contemplating on which platform to trade my bitcoin until my husband told me about Standardprofitprofitstrader. Simplicity of trading and on-time payouts cannot be over-emphasized.",
       },
     ],
     plans: [
@@ -559,7 +559,7 @@ export default {
       {
         name: "Professional team",
         description:
-          "Forex24hourstrade is managed by a team who have extensive experience in the field of investment.",
+          "Standardprofit is managed by a team who have extensive experience in the field of investment.",
         icon: "mdi-account-settings-outline",
         delay: 500,
       },
@@ -633,14 +633,14 @@ export default {
           hid: "description",
           name: "description",
           content:
-            "Forex24hourstradeprofitstrader is where you trade Bitcoin and other cryptocurrencies without having prior knowledge of computers. Just create a one-time account, fund and cashout weekly.",
+            "Standardprofit is where you trade Bitcoin and other cryptocurrencies without having prior knowledge of computers. Just create a one-time account, fund and cashout weekly.",
         },
 
         {
           hid: "og:description",
           property: "og:description",
           content:
-            "Forex24hourstradeprofitstrader is where you trade Bitcoin and other cryptocurrencies without having prior knowledge of computers. Just create a one-time account, fund and cashout weekly.",
+            "Standardprofit is where you trade Bitcoin and other cryptocurrencies without having prior knowledge of computers. Just create a one-time account, fund and cashout weekly.",
         },
         {
           hid: "og:image",
@@ -660,7 +660,7 @@ export default {
         {
           hid: "og:title",
           property: "og:title",
-          content: "Forex24hourstrade",
+          content: "Standardprofit",
         },
         {
           hid: "twitter:card",

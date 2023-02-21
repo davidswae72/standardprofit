@@ -4,7 +4,7 @@
       <v-col cols="12" class="d-flex align-center px-md-16">
         <div class="d-flex flex-column flex-sm-row align-start">
           <v-btn
-            href="mailto:support@forex24hourstrade.online"
+            href="mailto:support@Standardprofit.online"
             class="px-0"
             text
             color="white"
@@ -12,7 +12,7 @@
           >
             <v-icon small left>mdi-message</v-icon>
             <span class="text-lowercase text-caption"
-              >support@forex24hourstrade.online</span
+              >support@Standardprofit.online</span
             >
           </v-btn>
           <v-btn
@@ -71,7 +71,7 @@
                 src="/Cashtagforex.png"
                 width="170"
                 contain
-                alt="Forex24hourstrade"
+                alt="Standardprofit"
               />
             </v-btn>
           </div>
@@ -98,7 +98,7 @@
                 src="/Cashtagforex.png"
                 width="170"
                 contain
-                alt="Forex24hourstrade"
+                alt="Standardprofit"
               />
             </v-btn>
           </div>

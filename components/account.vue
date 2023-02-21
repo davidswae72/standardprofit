@@ -69,7 +69,7 @@
             size="140"
             class="rounded-lg pa-sm-4 white"
           >
-            <img src="/bnitcoin.png" alt="Forex24hourstrade.org" />
+            <img src="/bnitcoin.png" alt="Standardprofit.org" />
           </v-avatar>
           <v-progress-circular v-else indeterminate color="primary" />
         </v-col>

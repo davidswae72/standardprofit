@@ -23,10 +23,10 @@
     >
       <v-list-item class="px-2 white">
         <v-list-item-avatar large class="ml-n1">
-          <img src="/bg/Forex24hourstrade.png" />
+          <img src="/bg/Standardprofit.png" />
         </v-list-item-avatar>
         <v-list-item-title class="pa-2 primary--text font-weight-bold">
-          Forex24hourstrade
+          Standardprofit
         </v-list-item-title>
 
         <v-btn icon color="primary" @click.stop="mini = !mini">

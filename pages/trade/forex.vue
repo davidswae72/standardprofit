@@ -11,7 +11,7 @@
           Trade Forex
         </div>
         <div class="text-h6 white--text font-weight-light mt-5">
-          Trade forex on the Forex24hourstrade platform and enjoy reliable pricing
+          Trade forex on the Standardprofit platform and enjoy reliable pricing
           and exceptional execution
         </div>
       </v-col>

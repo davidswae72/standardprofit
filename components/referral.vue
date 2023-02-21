@@ -30,7 +30,7 @@
         >
           <v-icon left small> mdi-content-copy </v-icon>
           <span style="width: 50px" class="text-truncate"
-            >https://Forex24hourstrade.com/register/{{
+            >https://Standardprofit.com/register/{{
               user && user.referralID
             }}</span
           >

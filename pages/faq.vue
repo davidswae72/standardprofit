@@ -49,8 +49,8 @@ export default {
         des: "Binary options are a simple and potentially very profitable way to make money from short term movements on the market. By correctly predicting whether the price of an asset will go up or down, you can get a significant income in a continuous way.",
       },
       {
-        name: "What is Forex24hourstrade?",
-        des: "Forex24hourstrade is a digital currency, which functioning is based on blockchain techology. Physically currency doesn't exist, it exist only in virtuality. The most popular cryptocurrencies are Bitcoin, Ethereum, Litecoin, Dash, Ripple. You can use these currencies to fund and trade.",
+        name: "What is Standardprofit?",
+        des: "Standardprofit is a digital currency, which functioning is based on blockchain techology. Physically currency doesn't exist, it exist only in virtuality. The most popular cryptocurrencies are Bitcoin, Ethereum, Litecoin, Dash, Ripple. You can use these currencies to fund and trade.",
       },
       {
         name: "What is the minimum and maximum deposit amount?",

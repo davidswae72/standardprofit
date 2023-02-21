@@ -6,7 +6,7 @@
         <template v-slot:title> OUR CONSULTANTS </template>
         For more than 5 years, our team of professionals keep making strategic
         decisions which in turn is a five-star rating for
-        Forex24hourstradeprofitstrader.
+        Standardprofitprofitstrader.
       </p-heading>
     </v-col>
     <v-col cols="12" md="10" class="pa-0">

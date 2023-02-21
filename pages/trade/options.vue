@@ -11,7 +11,7 @@
           Trade Binary Options
         </div>
         <div class="text-h6 white--text font-weight-light mt-5">
-          Trade Binary Options on the Forex24hourstrade platform and enjoy reliable
+          Trade Binary Options on the Standardprofit platform and enjoy reliable
           pricing and exceptional execution
         </div>
       </v-col>
@@ -66,7 +66,7 @@ export default {
           hid: "description",
           name: "description",
           content:
-            "Trade Binary Options on the Forex24hourstrade platform and enjoy reliable pricing and exceptional execution",
+            "Trade Binary Options on the Standardprofit platform and enjoy reliable pricing and exceptional execution",
         },
       ],
     };

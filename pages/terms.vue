@@ -21,9 +21,9 @@
           <p>
             This Agreement is entered into by and these Terms & Conditions
             (hereinafter referred to as the “Agreement”) shall regulate the
-            relationship between Forex24hourstrade LTD, (hereinafter referred to as
+            relationship between Standardprofit LTD, (hereinafter referred to as
             the “Company”), and the user (a natural or legal entity)
-            (hereinafter referred to as the “Client”) of Forex24hourstrade.co
+            (hereinafter referred to as the “Client”) of Standardprofit.co
             (hereinafter referred as the “Website”).
           </p>
         </div>
@@ -87,7 +87,7 @@ export default {
         <li class="mb-4">The terms of this Agreement shall be considered accepted unconditionally by the Client upon the Company’s receipt of an advance payment made by the Client. As soon as the Company receives the Client's advance payment, every operation made by the Client on the Trading Platform shall be subject to the terms of this Agreement and other documentation/information on the Website.</li>
         <li class="mb-4">The Client hereby acknowledges that each and any Operation, activity, transaction, order and/or communication performed by him/her on the Trading Platform, including without limitation through the Account, and the Website, shall be governed by and/or must be executed in accordance with the terms and conditions of this Agreement and other documentation/information on the Website.</li>
         <li class="mb-4">By accepting this current agreement, the Client confirms that he/she is able to receive information, including amendments to the present Agreement either via email or through the Website.</li>
-        <li class="mb-4">A client that is a legal entity can register with the Company not through the Website but by sending an email with its request toinfo@Forex24hourstrade.co. All terms and and conditions contained herein, including without limitation to 1 to 5 above, shall at all times be applicable to the Legal Entity and the latter shall conform with such terms and conditions, obligations and rights at all times.</li>
+        <li class="mb-4">A client that is a legal entity can register with the Company not through the Website but by sending an email with its request toinfo@Standardprofit.co. All terms and and conditions contained herein, including without limitation to 1 to 5 above, shall at all times be applicable to the Legal Entity and the latter shall conform with such terms and conditions, obligations and rights at all times.</li>
         </ol>
         `,
       },
@@ -393,7 +393,7 @@ export default {
         <li class="mb-4">The Company reserves the right, without prior notification, to amend or cancel any of the Benefits provided at any time for any reason;</li>
         <li class="mb-4">Conditions are subject to change at any time and may vary depending on each region;</li>
         <li class="mb-4">It is prohibited to abuse any of the privileges provided by the Company (e.g. creating multiple trading accounts to claim these Benefits);</li>
-        <li class="mb-4">The client may submit a request to info@Forex24hourstrade.co to stop receiving such Benefits at any time.</li>
+        <li class="mb-4">The client may submit a request to info@Standardprofit.co to stop receiving such Benefits at any time.</li>
         </ol>
         `,
       },
@@ -408,7 +408,7 @@ export default {
           hid: "description",
           name: "description",
           content:
-            "Trade Binary Options on the Forex24hourstrade platform and enjoy reliable pricing and exceptional execution",
+            "Trade Binary Options on the Standardprofit platform and enjoy reliable pricing and exceptional execution",
         },
       ],
     };

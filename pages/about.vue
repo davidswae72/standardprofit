@@ -11,7 +11,7 @@
         md="9"
         class="text-h4 text-md-h2 text-center font-weight-bold white--text mt-10"
       >
-        About <span class="secondary--text">Forex24hourstrade</span>
+        About <span class="secondary--text">Standardprofit</span>
       </v-col>
     </v-row>
     <v-row
@@ -165,7 +165,7 @@ export default {
         name: "Simplicity",
         delay: 500,
         description:
-          "One of Forex24hourstrade main goals is to remove barriers and make online trading and investing more accessible to the everyday user. Whenever people join Forex24hourstrade, we aim to make them feel a part of the platform from the very beginning. Moreover, we realize that many people use multiple platforms to manage their capital online, which is why we are constantly expanding our product offering to eventually include all of your financial needs under one roof.",
+          "One of Standardprofit main goals is to remove barriers and make online trading and investing more accessible to the everyday user. Whenever people join Standardprofit, we aim to make them feel a part of the platform from the very beginning. Moreover, we realize that many people use multiple platforms to manage their capital online, which is why we are constantly expanding our product offering to eventually include all of your financial needs under one roof.",
       },
       {
         name: "Innovation",
@@ -177,19 +177,19 @@ export default {
         name: "Enjoyable",
         delay: 700,
         description:
-          "We believe that people should be able to trade more than financial assets, like thoughts and feelings. On Forex24hourstrade, our users can interact and gain from each other’s experience. Our platform is intuitive and user-friendly, turning even the most complicated actions, like stock trading, to a simple and interactive experience",
+          "We believe that people should be able to trade more than financial assets, like thoughts and feelings. On Standardprofit, our users can interact and gain from each other’s experience. Our platform is intuitive and user-friendly, turning even the most complicated actions, like stock trading, to a simple and interactive experience",
       },
       {
         name: "Openness",
         delay: 800,
         description:
-          "Openness and transparency are an integral part of the user experience on Forex24hourstrade. Whether it’s the ability to start a chat with any user on board, our CEO included, or the fact that we don’t charge any hidden fees and make sure our prices are clear and visible, we strive to make sure that our users feel that they have all the information they need to handle their finances on Forex24hourstrade.",
+          "Openness and transparency are an integral part of the user experience on Standardprofit. Whether it’s the ability to start a chat with any user on board, our CEO included, or the fact that we don’t charge any hidden fees and make sure our prices are clear and visible, we strive to make sure that our users feel that they have all the information they need to handle their finances on Standardprofit.",
       },
       {
         name: "Quality",
         delay: 900,
         description:
-          "A meticulous thought process behind every decision and a constant striving for perfection, guides Forex24hourstrade to deliver the best possible experience for all of our users. From the moment a person is exposed to our logo, we wish to make sure that he feels our attention to even the minutest details at all times.",
+          "A meticulous thought process behind every decision and a constant striving for perfection, guides Standardprofit to deliver the best possible experience for all of our users. From the moment a person is exposed to our logo, we wish to make sure that he feels our attention to even the minutest details at all times.",
       },
     ],
   }),
@@ -202,7 +202,7 @@ export default {
           hid: "description",
           name: "description",
           content:
-            " Forex24hourstrade vision is to open the global markets for everyone to trade and invest in a simple and transparent way.",
+            " Standardprofit vision is to open the global markets for everyone to trade and invest in a simple and transparent way.",
         },
       ],
     };

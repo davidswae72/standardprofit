@@ -8,9 +8,9 @@
       <span class="text-body-2 info--text font-weight-medium">
         Contact
         <a
-          href="mailto:support@forex24hourstrade.online"
+          href="mailto:support@Standardprofit.online"
           class="secondary--text"
-          >support@forex24hourstrade.online</a
+          >support@Standardprofit.online</a
         >
         for Bank Transfer payment
       </span>

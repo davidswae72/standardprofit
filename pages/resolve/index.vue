@@ -13,7 +13,7 @@
           >
             <!-- <v-btn text href="/" class="mt-n4">
               <v-avatar tile size="100">
-                <v-img src="/maveric.png" max-width="100" alt="Forex24hourstrade">
+                <v-img src="/maveric.png" max-width="100" alt="Standardprofit">
               </v-avatar>
             </v-btn> -->
             <div class="text-button mb-n2 mt-8">Resolve Account</div>

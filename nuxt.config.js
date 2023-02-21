@@ -16,7 +16,7 @@ export default {
    ** See https://nuxtjs.org/api/configuration-head
    */
   head: {
-    titleTemplate: "%s Forex24hourstrade",
+    titleTemplate: "%s Standardprofit",
     meta: [
       { charset: "utf-8" },
       {
@@ -29,7 +29,7 @@ export default {
         name: "description",
         content:
           process.env.npm_package_description ||
-          "Forex24hourstrade is where you trade Bitcoin and other cryptocurrencies without having prior knowledge of computers. Just create a one-time account, fund and cashout weekly.",
+          "Standardprofit is where you trade Bitcoin and other cryptocurrencies without having prior knowledge of computers. Just create a one-time account, fund and cashout weekly.",
       },
     ],
     link: [{ rel: "icon", type: "image/x-icon", href: "/favicon.ico" }],

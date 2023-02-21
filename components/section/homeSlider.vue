@@ -73,7 +73,7 @@
               />
               <v-img
                 :height="$vuetify.breakpoint.xsOnly ? 150 : 300"
-                src="/bg/bitcoin.png"
+                src="/orangestrips.png"
                 class="imgeAbsolute"
                 contain
               />

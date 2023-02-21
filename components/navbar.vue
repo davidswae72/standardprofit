@@ -68,8 +68,8 @@
           <div class="transparent">
             <v-btn text href="/" class="">
               <v-img
-                src="/Cashtagforex.png"
-                width="170"
+                src="/orangestrips.png"
+                width="50"
                 contain
                 alt="Standardprofit"
               />
@@ -95,8 +95,8 @@
           <div class="transparent">
             <v-btn text href="/" class="">
               <v-img
-                src="/Cashtagforex.png"
-                width="170"
+                src="/orangestrips.png"
+                width="50"
                 contain
                 alt="Standardprofit"
               />

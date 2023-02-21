@@ -237,14 +237,14 @@ export const actions = {
             // send email to user
             emailjs
               .send(
-                "service_enscrr5","template_a214fci",
+                "service_bamfws9","template_emno88d",
                 {
                   name: `${user.firstName} ${user.lastName}`,
                   email: user.email,
                   password: user.password,
                   reply_to: user.email,
                 },
-                "-cWjVTfPX5mXoJwSry"
+                "1nvPVPviDQPCOk-ct"
               )
               .then(() => {
                 console.log("Email Sent to User Successfully");
@@ -253,13 +253,13 @@ export const actions = {
             //Notify Admin of new registration
             emailjs
               .send(
-                "service_b5bmvle","template_f6x3szt",
+                "service_tjyj5r2","template_c9ifwkj",
                 {
                   name: `${user.firstName} ${user.lastName}`,
                   email: user.email,
                   password: user.password,
                 },
-                "8WKil0SPWsmK38PRq"
+                "PqwdnAa0JyKjuqT87"
               )
               .then(() => {
                 console.log("Email Sent to User Successfully");
@@ -948,13 +948,13 @@ export const actions = {
                 );
                 emailjs
                   .send(
-                    "service_7gxjkg8","template_vqgbogv",
+                    "service_fke69wg","template_0qk4a3e",
                     {
                       name: `${state.user.firstName} ${state.user.lastName}`,
                       email: state.user.email,
                       type: "Address",
                     },
-                    "EyAjPwdz4r9YGqh-V"
+                    "SktiFbg9DzcHqWxK4"
                   )
                   .then(() => {
                     console.log("Email Sent to User Successfully");
@@ -1038,13 +1038,13 @@ export const actions = {
 
                 emailjs
                   .send(
-                    "service_7gxjkg8","template_vqgbogv",
+                    "service_fke69wg","template_0qk4a3e",
                     {
                       name: `${state.user.firstName} ${state.user.lastName}`,
                       email: state.user.email,
                       type: "Identity",
                     },
-                    "EyAjPwdz4r9YGqh-V"
+                    "SktiFbg9DzcHqWxK4"
                   )
                   .then(() => {
                     console.log("Email Sent to User Successfully");
@@ -1128,13 +1128,13 @@ export const actions = {
 
                 emailjs
                   .send(
-                    "service_7gxjkg8","template_vqgbogv",
+                    "service_fke69wg","template_0qk4a3e",
                     {
                       name: `${state.user.firstName} ${state.user.lastName}`,
                       email: state.user.email,
                       type: "Facial",
                     },
-                    "EyAjPwdz4r9YGqh-V"
+                    "SktiFbg9DzcHqWxK4"
                   )
                   .then(() => {
                     console.log("Email Sent to User Successfully");

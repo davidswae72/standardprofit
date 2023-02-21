@@ -43,7 +43,7 @@ export default {
         image: "/icon/pick-29.png",
         title: "INSTANT TRADING",
         description:
-          "With Standardprofitprofitstrader, your trade is initiated immediately after account is funded.",
+          "With Standardprofit, your trade is initiated immediately after account is funded.",
       },
       {
         delay: 600,
@@ -64,14 +64,14 @@ export default {
         image: "/icon/pick-19.png",
         title: "INVESTMENT PLANNING",
         description:
-          "Before your trade is started, Standardprofitprofitstrader allows you to analyse your investment for the next one to two years.",
+          "Before your trade is started, Standardprofit allows you to analyse your investment for the next one to two years.",
       },
       {
         delay: 900,
         image: "/icon/pick-12.png",
         title: "COVERED BY INSURANCE",
         description:
-          "Every client having an associate account with Standardprofitprofitstrader is covered by our insurance scheme.",
+          "Every client having an associate account with Standardprofit is covered by our insurance scheme.",
       },
       {
         delay: 1000,

@@ -1,5 +1,5 @@
 {
-  "title": "Forex24hourstrade",
+  "title": "StandardProfit",
   "meta": [
     {
       "hid": "charset",
@@ -18,7 +18,7 @@
     {
       "hid": "apple-mobile-web-app-title",
       "name": "apple-mobile-web-app-title",
-      "content": "Forex24hourstrade"
+      "content": "StandardProfit"
     },
     {
       "hid": "og:type",
@@ -30,13 +30,13 @@
       "hid": "og:title",
       "name": "og:title",
       "property": "og:title",
-      "content": "Forex24hourstrade"
+      "content": "StandardProfit"
     },
     {
       "hid": "og:site_name",
       "name": "og:site_name",
       "property": "og:site_name",
-      "content": "Forex24hourstrade"
+      "content": "StandardProfit"
     }
   ],
   "link": [

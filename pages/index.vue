@@ -497,7 +497,7 @@ export default {
         name: "Rita Robert",
         occupation: "Financial analyst, Blossom.",
         description:
-          "Was actually contemplating on which platform to trade my bitcoin until my husband told me about Standardprofitprofitstrader. Simplicity of trading and on-time payouts cannot be over-emphasized.",
+          "Was actually contemplating on which platform to trade my bitcoin until my husband told me about Standardprofit. Simplicity of trading and on-time payouts cannot be over-emphasized.",
       },
     ],
     plans: [
@@ -645,7 +645,7 @@ export default {
         {
           hid: "og:image",
           property: "og:image",
-          content: "/Cashtagforex.png",
+          content: "/orangestrips.png",
         },
         {
           hid: "og:type",
@@ -655,7 +655,7 @@ export default {
         {
           hid: "twitter:image:src",
           property: "twitter:image:src",
-          content: "/Cashtagforex.png",
+          content: "/orangestrips.png",
         },
         {
           hid: "og:title",

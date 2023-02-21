@@ -221,13 +221,13 @@ export default {
   computed: {
     methods() {
       return [
-        {
-          title: "Pay with Card",
-          icon: "mdi-credit-card",
-          action: () => {
-            this.openForm("Pay with Card");
-          },
-        },
+        // {
+        //   title: "Pay with Card",
+        //   icon: "mdi-credit-card",
+        //   action: () => {
+        //     this.openForm("Pay with Card");
+        //   },
+        // },
         {
           title: "Bank Transfer",
           icon: "mdi-bank",
@@ -255,7 +255,7 @@ export default {
   methods: {
     openForm(payload) {
       const componets = {
-        "Pay with Card": "payWithCard",
+        // "Pay with Card": "payWithCard",
         "Pay with Wallet": "payWithWallet",
         "Proof of Payment": "submitProof",
         "Bank Transfer": "bankTransfer",

@@ -11,7 +11,7 @@
         >
           <v-card-title class="d-flex flex-column align-center mt-6">
             <v-btn text href="/" class="mt-n8">
-              <v-img src="/Cashtagforex.png" width="200" alt="Standardprofit" />
+              <v-img src="/orangestrips.png" width="100" alt="Standardprofit" />
             </v-btn>
             <div class="text-h5 font-weight-bold mt-10">Forgot Password</div>
           </v-card-title>

@@ -23,7 +23,7 @@
     >
       <v-list-item class="px-2 white">
         <v-list-item-avatar large class="ml-n1">
-          <img src="/bg/Standardprofit.png" />
+          <img src="../static/orangestrips.png" />
         </v-list-item-avatar>
         <v-list-item-title class="pa-2 primary--text font-weight-bold">
           Standardprofit

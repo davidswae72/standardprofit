@@ -59,7 +59,7 @@ export default {
     wallets () {
       return [
         {
-          title: 'Total Users',
+          title: 'Total User(s)',
           type: 'number',
           icon: 'mdi-account-multiple',
           number: this.state('users') && this.state('users').length

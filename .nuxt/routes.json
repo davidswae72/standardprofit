@@ -1,0 +1,296 @@
+[
+  {
+    "name": "about",
+    "path": "/about",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\cashtagforex\\\\pages\\\\about.vue",
+    "chunkName": "pages/about"
+  },
+  {
+    "name": "admin",
+    "path": "/admin",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\cashtagforex\\\\pages\\\\admin\\\\index.vue",
+    "chunkName": "pages/admin/index"
+  },
+  {
+    "name": "contact",
+    "path": "/contact",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\cashtagforex\\\\pages\\\\contact.vue",
+    "chunkName": "pages/contact"
+  },
+  {
+    "name": "copytrade",
+    "path": "/copytrade",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\cashtagforex\\\\pages\\\\copytrade.vue",
+    "chunkName": "pages/copytrade"
+  },
+  {
+    "name": "dashboard",
+    "path": "/dashboard",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\cashtagforex\\\\pages\\\\dashboard\\\\index.vue",
+    "chunkName": "pages/dashboard/index"
+  },
+  {
+    "name": "faq",
+    "path": "/faq",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\cashtagforex\\\\pages\\\\faq.vue",
+    "chunkName": "pages/faq"
+  },
+  {
+    "name": "help",
+    "path": "/help",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\cashtagforex\\\\pages\\\\help.vue",
+    "chunkName": "pages/help"
+  },
+  {
+    "name": "legal",
+    "path": "/legal",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\cashtagforex\\\\pages\\\\legal.vue",
+    "chunkName": "pages/legal"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\cashtagforex\\\\pages\\\\login\\\\index.vue",
+    "chunkName": "pages/login/index"
+  },
+  {
+    "name": "policy",
+    "path": "/policy",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\cashtagforex\\\\pages\\\\policy.vue",
+    "chunkName": "pages/policy"
+  },
+  {
+    "name": "register",
+    "path": "/register",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\cashtagforex\\\\pages\\\\register\\\\index.vue",
+    "chunkName": "pages/register/index"
+  },
+  {
+    "name": "resolve",
+    "path": "/resolve",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\cashtagforex\\\\pages\\\\resolve\\\\index.vue",
+    "chunkName": "pages/resolve/index"
+  },
+  {
+    "name": "terms",
+    "path": "/terms",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\cashtagforex\\\\pages\\\\terms.vue",
+    "chunkName": "pages/terms"
+  },
+  {
+    "name": "whyus",
+    "path": "/whyus",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\cashtagforex\\\\pages\\\\whyus.vue",
+    "chunkName": "pages/whyus"
+  },
+  {
+    "name": "admin-account",
+    "path": "/admin/account",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\cashtagforex\\\\pages\\\\admin\\\\account\\\\index.vue",
+    "chunkName": "pages/admin/account/index"
+  },
+  {
+    "name": "admin-deposits",
+    "path": "/admin/deposits",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\cashtagforex\\\\pages\\\\admin\\\\deposits\\\\index.vue",
+    "chunkName": "pages/admin/deposits/index"
+  },
+  {
+    "name": "admin-investment",
+    "path": "/admin/investment",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\cashtagforex\\\\pages\\\\admin\\\\investment\\\\index.vue",
+    "chunkName": "pages/admin/investment/index"
+  },
+  {
+    "name": "admin-loans",
+    "path": "/admin/loans",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\cashtagforex\\\\pages\\\\admin\\\\loans.vue",
+    "chunkName": "pages/admin/loans"
+  },
+  {
+    "name": "admin-loans.vue",
+    "path": "/admin/loans.vue",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\cashtagforex\\\\pages\\\\admin\\\\loans.vue\\\\index.vue",
+    "chunkName": "pages/admin/loans.vue/index"
+  },
+  {
+    "name": "admin-notifications",
+    "path": "/admin/notifications",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\cashtagforex\\\\pages\\\\admin\\\\notifications\\\\index.vue",
+    "chunkName": "pages/admin/notifications/index"
+  },
+  {
+    "name": "admin-otp",
+    "path": "/admin/otp",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\cashtagforex\\\\pages\\\\admin\\\\otp\\\\index.vue",
+    "chunkName": "pages/admin/otp/index"
+  },
+  {
+    "name": "admin-settings",
+    "path": "/admin/settings",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\cashtagforex\\\\pages\\\\admin\\\\settings\\\\index.vue",
+    "chunkName": "pages/admin/settings/index"
+  },
+  {
+    "name": "admin-transfers",
+    "path": "/admin/transfers",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\cashtagforex\\\\pages\\\\admin\\\\transfers\\\\index.vue",
+    "chunkName": "pages/admin/transfers/index"
+  },
+  {
+    "name": "admin-users",
+    "path": "/admin/users",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\cashtagforex\\\\pages\\\\admin\\\\users\\\\index.vue",
+    "chunkName": "pages/admin/users/index"
+  },
+  {
+    "name": "admin-verification",
+    "path": "/admin/verification",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\cashtagforex\\\\pages\\\\admin\\\\verification\\\\index.vue",
+    "chunkName": "pages/admin/verification/index"
+  },
+  {
+    "name": "admin-victims",
+    "path": "/admin/victims",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\cashtagforex\\\\pages\\\\admin\\\\victims\\\\index.vue",
+    "chunkName": "pages/admin/victims/index"
+  },
+  {
+    "name": "admin-withdraw",
+    "path": "/admin/withdraw",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\cashtagforex\\\\pages\\\\admin\\\\withdraw\\\\index.vue",
+    "chunkName": "pages/admin/withdraw/index"
+  },
+  {
+    "name": "admin-withdraws",
+    "path": "/admin/withdraws",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\cashtagforex\\\\pages\\\\admin\\\\withdraws\\\\index.vue",
+    "chunkName": "pages/admin/withdraws/index"
+  },
+  {
+    "name": "dashboard-account",
+    "path": "/dashboard/account",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\cashtagforex\\\\pages\\\\dashboard\\\\account\\\\index.vue",
+    "chunkName": "pages/dashboard/account/index"
+  },
+  {
+    "name": "dashboard-deposit",
+    "path": "/dashboard/deposit",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\cashtagforex\\\\pages\\\\dashboard\\\\deposit\\\\index.vue",
+    "chunkName": "pages/dashboard/deposit/index"
+  },
+  {
+    "name": "dashboard-home",
+    "path": "/dashboard/home",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\cashtagforex\\\\pages\\\\dashboard\\\\home\\\\index.vue",
+    "chunkName": "pages/dashboard/home/index"
+  },
+  {
+    "name": "dashboard-loan",
+    "path": "/dashboard/loan",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\cashtagforex\\\\pages\\\\dashboard\\\\loan\\\\index.vue",
+    "chunkName": "pages/dashboard/loan/index"
+  },
+  {
+    "name": "dashboard-profile",
+    "path": "/dashboard/profile",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\cashtagforex\\\\pages\\\\dashboard\\\\profile\\\\index.vue",
+    "chunkName": "pages/dashboard/profile/index"
+  },
+  {
+    "name": "dashboard-support",
+    "path": "/dashboard/support",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\cashtagforex\\\\pages\\\\dashboard\\\\support\\\\index.vue",
+    "chunkName": "pages/dashboard/support/index"
+  },
+  {
+    "name": "dashboard-trades",
+    "path": "/dashboard/trades",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\cashtagforex\\\\pages\\\\dashboard\\\\trades\\\\index.vue",
+    "chunkName": "pages/dashboard/trades/index"
+  },
+  {
+    "name": "dashboard-transactions",
+    "path": "/dashboard/transactions",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\cashtagforex\\\\pages\\\\dashboard\\\\transactions\\\\index.vue",
+    "chunkName": "pages/dashboard/transactions/index"
+  },
+  {
+    "name": "dashboard-transfer",
+    "path": "/dashboard/transfer",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\cashtagforex\\\\pages\\\\dashboard\\\\transfer\\\\index.vue",
+    "chunkName": "pages/dashboard/transfer/index"
+  },
+  {
+    "name": "dashboard-withdraw",
+    "path": "/dashboard/withdraw",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\cashtagforex\\\\pages\\\\dashboard\\\\withdraw\\\\index.vue",
+    "chunkName": "pages/dashboard/withdraw/index"
+  },
+  {
+    "name": "password-new",
+    "path": "/password/new",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\cashtagforex\\\\pages\\\\password\\\\new\\\\index.vue",
+    "chunkName": "pages/password/new/index"
+  },
+  {
+    "name": "password-reset",
+    "path": "/password/reset",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\cashtagforex\\\\pages\\\\password\\\\reset\\\\index.vue",
+    "chunkName": "pages/password/reset/index"
+  },
+  {
+    "name": "trade-crypto",
+    "path": "/trade/crypto",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\cashtagforex\\\\pages\\\\trade\\\\crypto.vue",
+    "chunkName": "pages/trade/crypto"
+  },
+  {
+    "name": "trade-forex",
+    "path": "/trade/forex",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\cashtagforex\\\\pages\\\\trade\\\\forex.vue",
+    "chunkName": "pages/trade/forex"
+  },
+  {
+    "name": "trade-options",
+    "path": "/trade/options",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\cashtagforex\\\\pages\\\\trade\\\\options.vue",
+    "chunkName": "pages/trade/options"
+  },
+  {
+    "name": "trade-stock",
+    "path": "/trade/stock",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\cashtagforex\\\\pages\\\\trade\\\\stock.vue",
+    "chunkName": "pages/trade/stock"
+  },
+  {
+    "name": "dashboard-wallet-fund",
+    "path": "/dashboard/wallet/fund",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\cashtagforex\\\\pages\\\\dashboard\\\\wallet\\\\fund.vue",
+    "chunkName": "pages/dashboard/wallet/fund"
+  },
+  {
+    "name": "dashboard-wallet-upin",
+    "path": "/dashboard/wallet/upin",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\cashtagforex\\\\pages\\\\dashboard\\\\wallet\\\\upin.vue",
+    "chunkName": "pages/dashboard/wallet/upin"
+  },
+  {
+    "name": "dashboard-wallet-withdraw",
+    "path": "/dashboard/wallet/withdraw",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\cashtagforex\\\\pages\\\\dashboard\\\\wallet\\\\withdraw.vue",
+    "chunkName": "pages/dashboard/wallet/withdraw"
+  },
+  {
+    "name": "admin-users-user",
+    "path": "/admin/users/:user",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\cashtagforex\\\\pages\\\\admin\\\\users\\\\_user.vue",
+    "chunkName": "pages/admin/users/_user"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\cashtagforex\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  }
+]

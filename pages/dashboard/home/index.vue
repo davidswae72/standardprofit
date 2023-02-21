@@ -16,7 +16,7 @@
           />
         </div>
       </v-col>
-      <!-- <v-col v-if="!verified" cols="12">
+      <v-col v-if="!verified" cols="12">
         <v-card dark tile color="accent">
           <v-card-text class="d-flex align-center white--text py-1">
             Your Account is not verified
@@ -26,7 +26,7 @@
             </v-btn>
           </v-card-text>
         </v-card>
-      </v-col> -->
+      </v-col>
       <v-col cols="12" md="11">
         <v-card dark flat tile color="primary darken-1">
           <p-pattern v-if="daf" />

@@ -676,7 +676,7 @@ export default {
           src: "https://cdn.jsdelivr.net/gh/coinponent/coinponent@undefined/dist/coinponent.js",
         },
         {
-          src: "//code.tidio.co/tqznbydadvuknyupdzzonydukw8ftgaa.js",
+          src: "//code.tidio.co/v3p7xopjxhguxtzpbztl7gv5kzdtqpmc.js",
         },
       ],
       link: [

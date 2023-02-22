@@ -103,7 +103,7 @@
             </v-btn>
           </div>
           <v-spacer />
-          <v-app-bar-nav-icon class="white" @click="toggle(true)" />
+          <v-app-bar-nav-icon class="secondary" @click="toggle(true)" />
         </div>
       </v-col>
       <!-- <v-col cols="12" class="pa-0 primary--text">

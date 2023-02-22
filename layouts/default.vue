@@ -79,7 +79,9 @@
                   cryptocurrencies without having prior knowledge of computers.
                   Just create a one-time account, fund and cashout weekly.
                 </div>
-                <div>
+
+                <!-- todo the location and number at the default footer i removed because it was overlapping something -->
+                <!-- <div>
                   <v-btn
                     text
                     target="_blank"
@@ -96,7 +98,7 @@
                   <span class="text-caption opacity-h font-weight-light"
                     >235 National Estate, Bareu De, Georgia, United States</span
                   >
-                </div>
+                </div> -->
                 <!-- <div class="text-caption  font-weight-light opacity-h">
                   33xQjR1JC8bS65R6iE9axZV1erkSRqBBkP
                 </div> -->

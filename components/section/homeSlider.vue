@@ -19,13 +19,13 @@
                   overflow-x-visible
                 "
               >
-                The Most <span class="secondary--text">Secure Crypto</span>
-                Currency
+                The Most <span class="secondary--text">Secure Trading</span>
+                Plaform For crypto Trading
               </div>
               <div class="mt-5 ml-n4">
                 <p class="text-caption text-sm-subtitle-1">
-                  Crypto investment is the modern trend. Invest with our trading
-                  techn ology while you make money off the screen
+                  Making crypto investment is the modern trend. Invest with our trading
+                  technology while you make money off the screen
                 </p>
               </div>
             </div>
@@ -71,12 +71,12 @@
                 class="rotateAni animate__animated animate__fadeInDown"
                 contain
               />
-              <v-img
+              <!-- <v-img
                 :height="$vuetify.breakpoint.xsOnly ? 150 : 300"
                 src="/orangestrips.png"
                 class="imgeAbsolute"
                 contain
-              />
+              /> -->
             </v-card-text>
           </v-card>
         </v-col>
@@ -117,6 +117,7 @@
               color="secondary"
               :small="$vuetify.breakpoint.xsOnly"
               class="ma-0"
+              exact
             >
               Create Account
             </v-btn>

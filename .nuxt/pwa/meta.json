@@ -1,5 +1,5 @@
 {
-  "title": "StandardProfit",
+  "title": "Standardprofit",
   "meta": [
     {
       "hid": "charset",
@@ -18,7 +18,7 @@
     {
       "hid": "apple-mobile-web-app-title",
       "name": "apple-mobile-web-app-title",
-      "content": "StandardProfit"
+      "content": "Standardprofit"
     },
     {
       "hid": "og:type",
@@ -30,13 +30,13 @@
       "hid": "og:title",
       "name": "og:title",
       "property": "og:title",
-      "content": "StandardProfit"
+      "content": "Standardprofit"
     },
     {
       "hid": "og:site_name",
       "name": "og:site_name",
       "property": "og:site_name",
-      "content": "StandardProfit"
+      "content": "Standardprofit"
     }
   ],
   "link": [
@@ -47,7 +47,7 @@
     },
     {
       "rel": "manifest",
-      "href": "/_nuxt/manifest.c1e57627.json",
+      "href": "/_nuxt/manifest.e4611451.json",
       "hid": "manifest"
     }
   ],

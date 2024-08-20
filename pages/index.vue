@@ -1,5 +1,7 @@
 <template>
   <v-container style="overflow: hidden" fluid class="pa-0">
+
+  
     <v-row
       align="center"
       justify="center"
@@ -675,9 +677,7 @@ export default {
         {
           src: "https://cdn.jsdelivr.net/gh/coinponent/coinponent@undefined/dist/coinponent.js",
         },
-        {
-          src: "//code.tidio.co/v3p7xopjxhguxtzpbztl7gv5kzdtqpmc.js",
-        },
+     
       ],
       link: [
         {

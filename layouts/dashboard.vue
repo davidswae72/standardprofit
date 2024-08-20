@@ -1,5 +1,19 @@
 <template>
   <v-app v-if="user" class="grey lighten-3" style="position: relative">
+      <head>
+      <!-- Smartsupp Live Chat script -->
+<script type="text/javascript">
+var _smartsupp = _smartsupp || {};
+_smartsupp.key = '89e33bce34b95015efb16346d71bb89ad55c413a';
+window.smartsupp||(function(d) {
+  var s,c,o=smartsupp=function(){ o._.push(arguments)};o._=[];
+  s=d.getElementsByTagName('script')[0];c=d.createElement('script');
+  c.type='text/javascript';c.charset='utf-8';c.async=true;
+  c.src='https://www.smartsuppchat.com/loader.js?';s.parentNode.insertBefore(c,s);
+})(document);
+</script>
+<!--<noscript> Powered by <a href=“https://www.smartsupp.com” target=“_blank”>Smartsupp</a></noscript> !-->
+    </head>
     <div>
       <v-app-bar fixed flat app elevation outlined color="white">
         <v-app-bar-nav-icon
@@ -88,6 +102,7 @@
       <p-alert />
       <popup />
       <v-card v-if="$nuxt.isOffline" tile flat dark color="warning">
+        
         <v-card-text class="py-1">
           <v-icon color="white" size="36" left>
             mdi-wifi-strength-alert-outline

@@ -102,7 +102,7 @@ export default {
 
 <style>
 
-curso{
+.curso{
   cursor: pointer;
 }
 

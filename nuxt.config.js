@@ -5,7 +5,7 @@ export default {
    ** Nuxt rendering mode
    ** See https://nuxtjs.org/api/configuration-mode
    */
-  mode: "spa",
+  ssr: false,
   /*
    ** Nuxt target
    ** See https://nuxtjs.org/api/configuration-target
@@ -32,7 +32,7 @@ export default {
           "Standardprofit is where you trade Bitcoin and other cryptocurrencies without having prior knowledge of computers. Just create a one-time account, fund and cashout weekly.",
       },
     ],
-    link: [{ rel: "icon", type: "image/x-icon",}],
+    link: [{ rel: "icon", type: "image/x-icon" }],
   },
   /*
    ** Global CSS

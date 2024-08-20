@@ -51,8 +51,8 @@ const _4b2e05ee = () => interopDefault(import('..\\pages\\trade\\stock.vue' /* w
 const _bbd0b1f4 = () => interopDefault(import('..\\pages\\dashboard\\wallet\\fund.vue' /* webpackChunkName: "pages/dashboard/wallet/fund" */))
 const _b062607e = () => interopDefault(import('..\\pages\\dashboard\\wallet\\upin.vue' /* webpackChunkName: "pages/dashboard/wallet/upin" */))
 const _77f8a84b = () => interopDefault(import('..\\pages\\dashboard\\wallet\\withdraw.vue' /* webpackChunkName: "pages/dashboard/wallet/withdraw" */))
-const _61247cb6 = () => interopDefault(import('..\\pages\\admin\\users\\_user.vue' /* webpackChunkName: "pages/admin/users/_user" */))
 const _27f72846 = () => interopDefault(import('..\\pages\\index.vue' /* webpackChunkName: "pages/index" */))
+const _61247cb6 = () => interopDefault(import('..\\pages\\admin\\users\\_user.vue' /* webpackChunkName: "pages/admin/users/_user" */))
 
 const emptyFn = () => {}
 
@@ -254,13 +254,13 @@ export const routerOptions = {
     component: _77f8a84b,
     name: "dashboard-wallet-withdraw"
   }, {
-    path: "/admin/users/:user",
-    component: _61247cb6,
-    name: "admin-users-user"
-  }, {
     path: "/",
     component: _27f72846,
     name: "index"
+  }, {
+    path: "/admin/users/:user",
+    component: _61247cb6,
+    name: "admin-users-user"
   }],
 
   fallback: false

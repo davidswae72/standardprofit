@@ -329,17 +329,17 @@
     "_name": "_77f8a84b"
   },
   {
-    "name": "admin-users-user",
-    "path": "/admin/users/:user",
-    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\standardprofit\\\\pages\\\\admin\\\\users\\\\_user.vue",
-    "chunkName": "pages/admin/users/_user",
-    "_name": "_61247cb6"
-  },
-  {
     "name": "index",
     "path": "/",
     "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\standardprofit\\\\pages\\\\index.vue",
     "chunkName": "pages/index",
     "_name": "_27f72846"
+  },
+  {
+    "name": "admin-users-user",
+    "path": "/admin/users/:user",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\standardprofit\\\\pages\\\\admin\\\\users\\\\_user.vue",
+    "chunkName": "pages/admin/users/_user",
+    "_name": "_61247cb6"
   }
 ]
